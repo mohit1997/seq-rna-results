@@ -3,6 +3,8 @@
 
 LR - Logistic Regression Results
 
-OVA - One vs All Classifier Results
+OVR - One vs Rest Classifier Results
 
 MLP - Multilayer Perceptron Results
+
+VAE - Variational Autoencoder for unseen classes
